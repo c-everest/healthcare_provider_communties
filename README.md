@@ -18,6 +18,9 @@ We took the dataset of just over 6K unique Nashville providers and general acute
 
 An inherent limitation of the Hop Teaming dataset is that the patient population includes only Medicare benificiaries.  This largely precluded us from exploring hospital growth opportunities in certain areas such as plastic surgery, sports medicine or pediatrics.  With this in mind, I leveraged additional [data](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions) from the Centers for Medicare & Medicaid Services and analyzed the most prevalent chronic conditions among Medicare benificiaries as well as common comorbidities.  Conditions like Ischemic Heart Disease and Chronic Obstructive Pulmonary Disease that involve the cardiac and pulmonary systems account for 7 out of the 21 chronic conditions identified as driving the most spend by Medicare.  While Vanderbilt dominated patient referral volume in areas like Family Medicine and Internal Medicine, I revealed significant opportunity for Vanderbilt to significantly increase market share of referrals in pulmonary and cardiac subspecialties.
 
+![](/images/cardiac_pulmonary_market_opp.png)
+
+
 ### Data
 * 2017 Hop Teaming [dataset](https://careset.com/datasets-3/), illustrating the healthcare ecosystem and patient sharing relationships among Medicare providers 
 * National Plan and Provider Enumeration System (NPPES) Data [Dissemination](https://download.cms.gov/nppes/NPI_Files.html)
